@@ -14,7 +14,7 @@ git clone URL
 git brach
 git branch -M main
 ls
-ls -la
+ls -la(shows hidden files)
 git log
 
 git diff 'branch name' (compare branch)
