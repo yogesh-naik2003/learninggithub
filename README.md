@@ -16,3 +16,6 @@ git branch -M main
 ls
 ls -la
 git log
+
+git diff 'branch name' (compare branch)
+git merge 'branch name'
